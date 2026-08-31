@@ -1,1 +1,0 @@
-var e=`/sab-sebastian-code/assets/san-sebastian-BTA1P8BU.jpg`;export{e as t};

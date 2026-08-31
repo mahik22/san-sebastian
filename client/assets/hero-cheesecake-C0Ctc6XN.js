@@ -1,0 +1,1 @@
+var e=`/san-sebastian/assets/hero-cheesecake-BElfQ1ct.jpg`;export{e as t};

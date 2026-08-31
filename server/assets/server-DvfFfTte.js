@@ -92,7 +92,7 @@ var HEADERS = { TSS_SHELL: "X-TSS_SHELL" };
 * the dev styles URL for route-scoped CSS collection.
 */
 async function getStartManifest(matchedRoutes) {
-	const { tsrStartManifest } = await import("./_tanstack-start-manifest_v-D5JeKZQ2.js");
+	const { tsrStartManifest } = await import("./_tanstack-start-manifest_v-gA4gN7KK.js");
 	const startManifest = tsrStartManifest();
 	let routes = startManifest.routes;
 	routes[rootRouteId];
@@ -1150,7 +1150,7 @@ var getBaseManifest = getProdBaseManifest;
 var createEarlyHintsForRequest = createEarlyHintsCollector;
 async function loadEntries() {
 	const [routerEntry, startEntry, pluginAdapters] = await Promise.all([
-		import("./router-D0dWE1k7.js"),
+		import("./router-Efw_UsTn.js"),
 		import("./start-CxjCXmAx.js"),
 		import("./empty-plugin-adapters-D9UWiqvJ.js")
 	]);
@@ -1164,8 +1164,8 @@ function getEntries() {
 	if (!entriesPromise) entriesPromise = loadEntries();
 	return entriesPromise;
 }
-var ROUTER_BASEPATH = "sab-sebastian-code";
-var SERVER_FN_BASE = "/sab-sebastian-code/_serverFn/";
+var ROUTER_BASEPATH = "san-sebastian";
+var SERVER_FN_BASE = "/san-sebastian/_serverFn/";
 var IS_PRERENDERING = process.env.TSS_PRERENDERING === "true";
 var IS_SHELL_ENV = process.env.TSS_SHELL === "true";
 var IS_DEV = false;

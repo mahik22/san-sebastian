@@ -5,7 +5,7 @@ import { jsx, jsxs } from "react/jsx-runtime";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { Facebook, Instagram, MapPin, Menu, Phone, X } from "lucide-react";
 //#region src/styles.css?url
-var styles_default = "/sab-sebastian-code/assets/styles-CGJV-Aa7.css";
+var styles_default = "/san-sebastian/assets/styles-CGJV-Aa7.css";
 //#endregion
 //#region src/lib/lovable-error-reporting.ts
 function reportLovableError(error, context = {}) {
@@ -507,7 +507,7 @@ function RootComponent() {
 }
 //#endregion
 //#region src/routes/index.tsx
-var $$splitComponentImporter$4 = () => import("./routes-Bg015TCP.js");
+var $$splitComponentImporter$4 = () => import("./routes-sk9al0m_.js");
 var Route$4 = createFileRoute("/")({
 	head: () => ({
 		meta: [
@@ -538,7 +538,7 @@ var Route$4 = createFileRoute("/")({
 });
 //#endregion
 //#region src/routes/about.tsx
-var $$splitComponentImporter$3 = () => import("./about-C9QvzVrG.js");
+var $$splitComponentImporter$3 = () => import("./about-C-iKZ9Y0.js");
 var Route$3 = createFileRoute("/about")({
 	head: () => ({
 		meta: [
@@ -600,7 +600,7 @@ var Route$2 = createFileRoute("/contact")({
 });
 //#endregion
 //#region src/routes/gallery.tsx
-var $$splitComponentImporter$1 = () => import("./gallery-l2_UWaor.js");
+var $$splitComponentImporter$1 = () => import("./gallery-CN1Ee4we.js");
 var Route$1 = createFileRoute("/gallery")({
 	head: () => ({
 		meta: [
@@ -632,7 +632,7 @@ var Route$1 = createFileRoute("/gallery")({
 /** Replace `src` with real photography — the layout adapts automatically. */
 //#endregion
 //#region src/routes/menu.tsx
-var $$splitComponentImporter = () => import("./menu-4ldW8yFz.js");
+var $$splitComponentImporter = () => import("./menu-Dadg9Hde.js");
 var Route = createFileRoute("/menu")({
 	head: () => ({
 		meta: [

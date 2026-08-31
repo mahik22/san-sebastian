@@ -1,1 +1,0 @@
-var e=`/sab-sebastian-code/assets/hero-cheesecake-BElfQ1ct.jpg`;export{e as t};

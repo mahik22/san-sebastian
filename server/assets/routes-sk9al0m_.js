@@ -1,9 +1,9 @@
 import { n as site, r as Button } from "./site-DzVDM_sD.js";
 import { t as Reveal } from "./Reveal-DDv1-tWA.js";
-import { t as san_sebastian_default } from "./san-sebastian-CBTt6Hjl.js";
-import { t as hero_cheesecake_default } from "./hero-cheesecake-gSwS7AM1.js";
-import { n as bakery_default } from "./coffee-BDcih79q.js";
-import { a as formatPrice, i as featuredProducts, n as ProductCard, o as products, r as categories, t as ProductDialog } from "./ProductDialog-Be2I_fjK.js";
+import { t as san_sebastian_default } from "./san-sebastian-4ThdhJ-p.js";
+import { t as hero_cheesecake_default } from "./hero-cheesecake-BS8Oikah.js";
+import { n as bakery_default } from "./coffee-CWRXXGG_.js";
+import { a as formatPrice, i as featuredProducts, n as ProductCard, o as products, r as categories, t as ProductDialog } from "./ProductDialog-DhxGRhyV.js";
 import { useState } from "react";
 import { Link } from "@tanstack/react-router";
 import { Fragment, jsx, jsxs } from "react/jsx-runtime";

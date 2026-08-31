@@ -1,6 +1,6 @@
 import { i as cn, n as site, r as Button } from "./site-DzVDM_sD.js";
 import { t as Reveal } from "./Reveal-DDv1-tWA.js";
-import { n as ProductCard, o as products, r as categories, t as ProductDialog } from "./ProductDialog-Be2I_fjK.js";
+import { n as ProductCard, o as products, r as categories, t as ProductDialog } from "./ProductDialog-DhxGRhyV.js";
 import * as React from "react";
 import { useMemo, useState } from "react";
 import { Fragment, jsx, jsxs } from "react/jsx-runtime";
